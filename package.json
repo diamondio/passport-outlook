@@ -20,8 +20,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/globlee/passport-outlook.git"
+    "url": "git://github.com/diamondio/passport-outlook.git"
   },
-  "author": "Meir Bank",
+  "author": "Diamond Inc. <ops@diamond.io>",
   "license": "MIT"
 }
